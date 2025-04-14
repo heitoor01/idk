@@ -1,0 +1,29 @@
+body {
+    background-color: #2c3e50;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    background-color: #f1c40f;
+    border: 2px black solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: #f1c40f;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#red {
+    color: #e74c3c;
+}

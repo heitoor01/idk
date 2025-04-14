@@ -1,0 +1,23 @@
+
+
+h1 {
+    color: #593D3B;
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text {
+    color: #593D3B;
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+    background-color: #edede9;
+}
