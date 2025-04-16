@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+
+@font-face {
+    font-family: 'Jurassic Park';
+    src: url(../aula2.html/images/JurassicPark-BL48.ttf) format('truetype');
+}
+
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    background-color: #403d39;
+    color: #ffffff;
+    
+}
+
+.title {
+    font-family: 'Jurassic Park', Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    letter-spacing: 10px;
+}
+
+header {
+    background-color: #781d18;
+    color: black;
+   
+}
+
+hr {
+    border: 1px solid black;
+}
+
+p {
+    padding: 20px 20px 20px 20px;
+    text-align: justify;
+    font-size: 20px;
+    
+}
